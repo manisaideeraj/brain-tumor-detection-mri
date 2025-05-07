@@ -1,0 +1,5 @@
+MRI datasets ,Transfer learning models (InceptionResNetv2, Inceptionv3, ResNet50), fine-tuning, stratified k-fold cross-validation,
+Segmentation, K-means, fuzzy c-means, and watershed algorithm, metrics like sensitivity, specificity, precision, F1-score, ROC,cross-validation, 
+
+
+
